@@ -1,0 +1,11 @@
+/*datatable action style*/
+td.action form {
+  display: inline-block;
+}
+td.action form:not(:last-child) {
+  margin-right: 14px;
+}
+
+.alert {
+  display: none !important;
+}
